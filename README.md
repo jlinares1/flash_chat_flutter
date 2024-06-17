@@ -23,7 +23,6 @@
     <img src="screenshots/screenshot_4.png" width="300" />
     <img src="screenshots/screenshot_5.png" width="300" />
     <img src="screenshots/screenshot_6.png" width="300" />
-    <img src="screenshots/screenshot_7.png" width="300" />
 </p>
 
 ## Installation/Running steps :computer: :
